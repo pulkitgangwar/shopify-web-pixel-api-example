@@ -1,3 +1,6 @@
+# Shopify Web Pixel Api
+## How to use web pixel api with shopify admin api
+
 Shopify Web Pixel API makes it easier to collect customers' behavioural data. We will be creating a simple tracker that sends add-to-cart events and event data to our app backend. While making this tracker we will understand how this extension works.
 
 > **Prerequisites**
