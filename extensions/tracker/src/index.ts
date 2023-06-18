@@ -1,4 +1,5 @@
 import { register } from "@shopify/web-pixels-extension";
+const API_URL = "https://your-url.com/api"
 
 register(({ analytics, browser }) => {
   analytics.subscribe("product_added_to_cart", async (event) => {
